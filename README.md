@@ -31,7 +31,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pdf-outline-extractor.git
+   git clone https://github.com/vishal18713/adobe_part_1
    cd pdf-outline-extractor
    ```
 
